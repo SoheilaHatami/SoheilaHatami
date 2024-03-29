@@ -1,7 +1,7 @@
 ### Hi everyone, it's ME 😁 👋
 
 <p align="justify">
-Passionate ✨ mechatronic and somehow software engineer ✨, working and interested in electrical issues, machine learning (especially deep learning and image processing), and the world of technology 👀 💻. 
+Passionate ✨ software engineer ✨, working and interested in computer vision, machine learning (especially deep learning and image processing) and electrical issues plus the world of technology 👀 💻. 
 
 📚 **EDUCATION** </br>
   • MSc in Mechatronic Engineering 🤓 </br>
@@ -17,25 +17,26 @@ Passionate ✨ mechatronic and somehow software engineer ✨, working and intere
 • Undergraduate Internship (from 06/2017 to 09/2017) </br>
 `Mehrabad Airport, Soha Training Center, Tehran, Iran` </br>
 
-🤔 **ADDITIONAL EXPERIENCES** </br>
-• EPLAN Software Course Instructor at Tarbiat Modares University </br>
-• Teacher Assistant for the Course of Industrial Automation in the Master's Degree </br>
-• Reviewer of Patents in the Field of Electricity-Power in the Master's Degree </br>
-
-😉 **PERSONAL PROJECTS** </br>
+🤔 **PROJECTS** </br>
 • Design a Deep Learning Model of Face Mask Detection for COVID-19 Pandemic - Group Work </br>
+•	Design a License Plate Recognition Using Deep Learning Model </br>
 • Design a Search Engine for Content-Based Image Retrieval </br>
 • Industrial Automation Projects using FluidSIM </br>
 • Design of Logic and Digital Circuits Using Proteus </br>
 • Robust Control Projects Such as Designing Optimal Control Systems </br>
 
+😉 **ADDITIONAL EXPERIENCES** </br>
+• EPLAN Software Course Instructor at Tarbiat Modares University </br>
+• Teacher Assistant for the Course of Industrial Automation during Master's Degree </br>
+• Reviewer of Patents in the Field of Electricity-Power during Master's Degree </br>
+
 🏆 **SKILLS** </br>
-Python | MATLAB | EPLAN | AutoCAD Electrical | Proteus | Microsoft Office Tools | Machine Learning | FluidSIM | Image Processing | Teamwork and Collaboration
+Python | Machine and Deep Learning | Computer Vision | Image Processing | Deep Neural Networks | Data Analysis and Visualization | Git | GitHub | MATLAB | EPLAN | AutoCAD Electrical | FluidSIM | Proteus | Teamwork and Collaboration  
 
 🎓 **RESEARCH PAPERS** </br>
 • Wearing Face Mask Detection Using Deep Learning Through COVID-19 Pandemic --> Published </br>
 `https://scientiairanica.sharif.edu/article_23125.html` </br>
-• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Under Review </br>
+• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Accepted (Waiting for Online Published Version) </br>
 `https://arxiv.org/abs/2305.02292` </br>
 • The Role of Data Mining in the Agriculture Industry and Medicinal Plants --> Published </br>
 `https://civilica.com/doc/1668241`
@@ -44,13 +45,14 @@ Python | MATLAB | EPLAN | AutoCAD Electrical | Proteus | Microsoft Office Tools 
 Persian (Native) | English (Fluent) --> IELTS score with Overall: 7.5 🥳 | German (Intermediate)
 
 🥹 **INTERESTS** </br>
-Artificial Intelligence | Industrial Automation | Coding | Robotics | Sports (Swimming, Running, and Volleyball) | Travelling | Reading | Autonomous Vehicles | Medical Imaging | CAN Bus Protocol
+Artificial Intelligence | Medical Imaging | Programming | Industrial Automation | Robotics | Sports (Swimming, Running, and Volleyball) | Travelling | Reading | Autonomous Vehicles | CAN Bus Protocol
 
-- 🔭 These days what I'm working on is a combination of CNN and transformers in images (like medical ones 🩻), optimizers, the hardware issues for acceleration in GPUs 🔋, and CAN bus protocol in vehicle networks. 
-- 🌱 I’m currently learning more about data structures 🔦.
+- 🔭 These days what I'm working on is a combination of CNN and transformers in images (like medical ones 🩻), optimizers, the hardware issues for acceleration in GPUs 🔋, also CAN bus protocol in vehicle networks. 
+- 🌱 And I’m also learning more about data analytics 🔦.
 - 😄 Pronouns: she/her </br>
 
-At the end [My CV](https://drive.google.com/file/d/19vS6JtBnFMNjdxD-YEPExEv1eCB6LdQ4/view?usp=share_link) 💪🏻
+At the end [My CV](https://github.com/SoheilaHatami/SoheilaHatami/files/14807113/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+
 </p> 
   
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
