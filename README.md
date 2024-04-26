@@ -1,7 +1,7 @@
 ### Hi everyone, it's ME 😁 👋
 
 <p align="justify">
-Passionate ✨ software engineer ✨, working and interested in computer vision, machine learning (especially deep learning and image processing) and electrical issues plus the world of technology 👀 💻. 
+Passionate ✨ deep learning researcher ✨, working and interested in computer vision, machine learning (especially deep learning and image processing) and electrical issues plus the world of technology 👀 💻. 
 
 📚 **EDUCATION** </br>
   • MSc in Mechatronic Engineering 🤓 </br>
@@ -51,7 +51,7 @@ Artificial Intelligence | Medical Imaging | Programming | Industrial Automation 
 - 🌱 And I’m also learning more about data analytics 🔦.
 - 😄 Pronouns: she/her </br>
 
-At the end [My CV](https://github.com/SoheilaHatami/SoheilaHatami/files/14807113/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+At the end [My CV](https://github.com/SoheilaHatami/SoheilaHatami/files/15133977/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
 
 </p> 
   
