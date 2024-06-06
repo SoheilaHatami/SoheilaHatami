@@ -34,10 +34,12 @@ Passionate ✨ deep learning researcher ✨, working and interested in computer 
 Python | Machine and Deep Learning | Computer Vision | Image Processing | Deep Neural Networks | Data Analysis and Visualization | Git | GitHub | MATLAB | EPLAN | AutoCAD Electrical | FluidSIM | Proteus | Teamwork and Collaboration  
 
 🎓 **RESEARCH PAPERS** </br>
+• Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis --> Submitted to arXiv </br>
+`https://arxiv.org/abs/2406.03430` </br>
+• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Accepted (Online Published) </br>
+`https://scientiairanica.sharif.edu/article_23589.html` </br>
 • Wearing Face Mask Detection Using Deep Learning Through COVID-19 Pandemic --> Published </br>
 `https://scientiairanica.sharif.edu/article_23125.html` </br>
-• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Accepted (Waiting for Online Published Version) </br>
-`https://arxiv.org/abs/2305.02292` </br>
 • The Role of Data Mining in the Agriculture Industry and Medicinal Plants --> Published </br>
 `https://civilica.com/doc/1668241`
 
@@ -51,7 +53,7 @@ Artificial Intelligence | Medical Imaging | Programming | Industrial Automation 
 - 🌱 And I’m also learning more about data analytics 🔦.
 - 😄 Pronouns: she/her </br>
 
-At the end [My CV](https://github.com/SoheilaHatami/SoheilaHatami/files/15133977/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+At the end [My CV](https://github.com/user-attachments/files/15612985/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
 
 </p> 
   
