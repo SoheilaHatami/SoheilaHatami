@@ -6,6 +6,7 @@ Passionate ✨ deep learning researcher ✨, working and interested in computer 
 📚 **EDUCATION** </br>
   • MSc in Mechatronic Engineering 🤓 </br>
   • BA in Electrical Engineering 😃 - Power branch
+  • GRE Test Scores ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉
 
 👩🏻‍💻 **WORK EXPERIENCES** </br>
 • Electrical Engineer (from 01/2023 to Present) </br>
@@ -53,7 +54,7 @@ Artificial Intelligence | Medical Imaging | Programming | Industrial Automation 
 - 🌱 And I’m also learning more about data analytics 🔦.
 - 😄 Pronouns: she/her </br>
 
-At the end [My CV](https://github.com/user-attachments/files/15612985/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+At the end [My CV](https://github.com/user-attachments/files/16565416/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
 
 </p> 
   
