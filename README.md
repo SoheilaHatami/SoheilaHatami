@@ -5,7 +5,7 @@ Passionate ✨ deep learning researcher ✨, working and interested in computer 
 
 📚 **EDUCATION** </br>
   • MSc in Mechatronic Engineering 🤓 </br>
-  • BA in Electrical Engineering 😃 - Power branch
+  • BA in Electrical Engineering 😃 - Power branch </br>
   • GRE Test Scores ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉
 
 👩🏻‍💻 **WORK EXPERIENCES** </br>
