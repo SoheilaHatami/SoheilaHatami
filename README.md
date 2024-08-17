@@ -37,7 +37,7 @@ Python | Machine and Deep Learning | Computer Vision | Image Processing | Deep N
 🎓 **RESEARCH PAPERS** </br>
 • Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis --> Submitted to arXiv </br>
 `https://arxiv.org/abs/2406.03430` </br>
-• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Accepted (Online Published) </br>
+• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Published </br>
 `https://scientiairanica.sharif.edu/article_23589.html` </br>
 • Wearing Face Mask Detection Using Deep Learning Through COVID-19 Pandemic --> Published </br>
 `https://scientiairanica.sharif.edu/article_23125.html` </br>
@@ -53,8 +53,8 @@ Artificial Intelligence | Medical Imaging | Programming | Industrial Automation 
 - 🔭 These days what I'm working on is a combination of CNN and transformers in images (like medical ones 🩻), optimizers, the hardware issues for acceleration in GPUs 🔋, also CAN bus protocol in vehicle networks. 
 - 🌱 And I’m also learning more about data analytics 🔦.
 - 😄 Pronouns: she/her </br>
-
-At the end [My CV](https://github.com/user-attachments/files/16565416/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+ 
+At the end [My CV](https://github.com/user-attachments/files/16645727/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
 
 </p> 
   
