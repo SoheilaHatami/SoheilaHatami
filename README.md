@@ -1,60 +1,61 @@
 ### Hi everyone, it's ME 😁 👋
 
 <p align="justify">
-Passionate ✨ deep learning researcher ✨, working and interested in computer vision, machine learning (especially deep learning and image processing) and electrical issues plus the world of technology 👀 💻. 
+Passionate ✨ electrical engineer ✨, working and interested in power systems, automation, controls, and machine learning (especially deep learning and image processing). Possessing excellent interpersonal and communication abilities and a different range of technical skills, also open to learning new and amazing things 👀 💻.
 
 📚 **EDUCATION** </br>
-  • MSc in Mechatronic Engineering 🤓 </br>
-  • BA in Electrical Engineering 😃 - Power branch </br>
-  • GRE Test Scores ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉
+ • MSc in Mechatronic Engineering 🤓 </br>
+ • BA in Electrical Engineering 😃 - Power branch </br>
 
-👩🏻‍💻 **WORK EXPERIENCES** </br>
-• Electrical Engineer (from 01/2023 to Present) </br>
-`Iran Khodro Company, Tehran, Iran` </br>
-• Electrical Designer of a Control Panel for an Antenna Pedestal (from 05/2021 to 06/2022) </br>
-`Tarbiat Modares University, Tehran, Iran` </br>
-• Technical Editor and Journal Admin (from 08/2017 to 08/2022) </br>
-`Iranian Society of Medicinal Plants, Research Institute of Forests and Rangelands, Tehran, Iran` </br> 
-• Undergraduate Internship (from 06/2017 to 09/2017) </br>
-`Mehrabad Airport, Soha Training Center, Tehran, Iran` </br>
-
-🤔 **PROJECTS** </br>
-• Design a Deep Learning Model of Face Mask Detection for COVID-19 Pandemic - Group Work </br>
-•	Design a License Plate Recognition Using Deep Learning Model </br>
-• Design a Search Engine for Content-Based Image Retrieval </br>
-• Industrial Automation Projects using FluidSIM </br>
-• Design of Logic and Digital Circuits Using Proteus </br>
-• Robust Control Projects Such as Designing Optimal Control Systems </br>
-
-😉 **ADDITIONAL EXPERIENCES** </br>
-• EPLAN Software Course Instructor at Tarbiat Modares University </br>
-• Teacher Assistant for the Course of Industrial Automation during Master's Degree </br>
-• Reviewer of Patents in the Field of Electricity-Power during Master's Degree </br>
-
-🏆 **SKILLS** </br>
-Python | Machine and Deep Learning | Computer Vision | Image Processing | Deep Neural Networks | Data Analysis and Visualization | Git | GitHub | MATLAB | EPLAN | AutoCAD Electrical | FluidSIM | Proteus | Teamwork and Collaboration  
+👩🏻‍💻 ** EXPERIENCES** </br>
+ • Electrical Engineer (from 01/2023 to Present) </br>
+  `Iran Khodro Company, Tehran, Iran` </br>
+ • Electrical Designer of a Control Panel for an Antenna Pedestal (from 05/2021 to 06/2022) </br>
+  `Tarbiat Modares University, Tehran, Iran` </br>
+ • Technical Editor and Journal Admin (from 08/2017 to 08/2022) </br>
+  `Iranian Society of Medicinal Plants, Research Institute of Forests and Rangelands, Tehran, Iran` </br> 
+ • Undergraduate Internship (from 06/2017 to 09/2017) </br>
+  `Mehrabad Airport, Soha Training Center, Tehran, Iran` </br>
 
 🎓 **RESEARCH PAPERS** </br>
-• Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis --> Submitted to arXiv </br>
-`https://arxiv.org/abs/2406.03430` </br>
-• Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Published </br>
-`https://scientiairanica.sharif.edu/article_23589.html` </br>
-• Wearing Face Mask Detection Using Deep Learning Through COVID-19 Pandemic --> Published </br>
-`https://scientiairanica.sharif.edu/article_23125.html` </br>
-• The Role of Data Mining in the Agriculture Industry and Medicinal Plants --> Published </br>
-`https://civilica.com/doc/1668241`
+ • Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis --> Submitted to arXiv </br>
+  `https://arxiv.org/abs/2406.03430` </br>
+ • Iranian License Plate Recognition Using a Reliable Deep Learning Approach --> Published </br>
+  `https://scientiairanica.sharif.edu/article_23589.html` </br>
+ • Wearing Face Mask Detection Using Deep Learning Through COVID-19 Pandemic --> Published </br>
+  `https://scientiairanica.sharif.edu/article_23125.html` </br>
+ • The Role of Data Mining in the Agriculture Industry and Medicinal Plants --> Published </br>
+  `https://civilica.com/doc/1668241`
+
+☺️ **TEST SCORES** </br>
+ • GRE ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉
+ • IELTS ➡️ Overall: 7 (Listening: 8, Reading: 6, Speaking: 7, and Writing: 6) 🎉
+
+🤔 **PROJECTS** </br>
+ • Design a Deep Learning Model of Face Mask Detection for COVID-19 Pandemic - Group Work </br>
+ • Design a License Plate Recognition Using Deep Learning Model </br>
+ • Industrial Automation Projects using FluidSIM </br>
+ • Design of Logic and Digital Circuits Using Proteus </br>
+ • Robust Control Projects Such as Designing Optimal Control Systems </br>
+
+📝 **TEACHING EXPERIENCES** </br>
+ •	EPLAN Software Course Instructor at Tarbiat Modares University
+ •	Teacher Assistant for the Course of Industrial Automation during Master's Degree
+ •	Reviewer of Patents in the Field of Electricity-Power during Master's Degree
+
+🏆 **SKILLS** </br>
+ Python | MATLAB | EPLAN | AutoCAD Electrical | FluidSIM | Proteus | Machine and Deep Learning | Computer Vision | Image Processing | Deep Neural Networks | Data Analysis and Visualization | Git | GitHub | Teamwork and Collaboration 
 
 🤯 **LANGUAGES** </br>
-Persian (Native) | English (Fluent) --> IELTS score with Overall: 7.5 🥳 | German (Intermediate)
+ Persian (Native) | English (Fluent) | German (Intermediate)
 
 🥹 **INTERESTS** </br>
-Artificial Intelligence | Medical Imaging | Programming | Industrial Automation | Robotics | Sports (Swimming, Running, and Volleyball) | Travelling | Reading | Autonomous Vehicles | CAN Bus Protocol
+ Artificial Intelligence | Medical Imaging | Programming | Industrial Automation | Robotics | Travelling | Reading | Autonomous Vehicles | CAN Bus Protocol | Sports (Swimming, Running, and Volleyball)
 
-- 🔭 These days what I'm working on is a combination of CNN and transformers in images (like medical ones 🩻), optimizers, the hardware issues for acceleration in GPUs 🔋, also CAN bus protocol in vehicle networks. 
-- 🌱 And I’m also learning more about data analytics 🔦.
+- 🔭 These days, I am immersing myself in the intricate components of hybrid cars 🔋, uncovering the wonders of their electrical systems. 🌱 The exploration of vehicle communication networks is equally astonishing, fueling my passion and deepening my understanding of this vital field 🔦.
 - 😄 Pronouns: she/her </br>
- 
-At the end [My CV](https://github.com/user-attachments/files/16645727/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+
+At the end [My CV](https://github.com/user-attachments/files/18445075/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
 
 </p> 
   
