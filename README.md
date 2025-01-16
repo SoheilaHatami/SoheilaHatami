@@ -28,8 +28,8 @@ Passionate ✨ electrical engineer ✨, working and interested in power systems,
   `https://civilica.com/doc/1668241`
 
 ☺️ **TEST SCORES** </br>
- • GRE ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉
- • IELTS ➡️ Overall: 7 (Listening: 8, Reading: 6, Speaking: 7, and Writing: 6) 🎉
+ • GRE ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉 </br>
+ • IELTS ➡️ Overall: 7 (Listening: 8, Reading: 6, Speaking: 7, and Writing: 6) 🎉 </br>
 
 🤔 **PROJECTS** </br>
  • Design a Deep Learning Model of Face Mask Detection for COVID-19 Pandemic - Group Work </br>
