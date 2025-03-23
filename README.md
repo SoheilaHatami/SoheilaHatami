@@ -57,7 +57,8 @@ Passionate ✨ Electrical Engineer ✨, working and interested in power systems,
 - 🔭 These days, I am immersing myself in the intricate components of hybrid cars 🔋, uncovering the wonders of their electrical systems. 🌱 The exploration of vehicle communication networks is equally astonishing, fueling my passion and deepening my understanding of this vital field 🔦.
 - 😄 Pronouns: she/her </br>
 
-At the end [My CV](https://github.com/user-attachments/files/18445075/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+At the end [My CV](https://github.com/user-attachments/files/19411088/Soheila.Hatami.s.Curriculum.Vitae.pdf) 💪🏻
+
 
 </p> 
   
