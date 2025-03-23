@@ -1,7 +1,7 @@
 ### Hi everyone, it's ME 😁 👋
 
 <p align="justify">
-Passionate ✨ electrical engineer ✨, working and interested in power systems, automation, controls, and machine learning (especially deep learning and image processing). Possessing excellent interpersonal and communication abilities and a different range of technical skills, also open to learning new and amazing things 👀 💻.
+Passionate ✨ Electrical Engineer ✨, working and interested in power systems, automation, controls, and machine learning (especially deep learning and image processing). Possessing excellent interpersonal and communication abilities and a different range of technical skills, also open to learning new and amazing things 👀 💻.
 
 📚 **EDUCATION** </br>
  • MSc in Mechatronic Engineering 🤓 </br>
@@ -26,6 +26,8 @@ Passionate ✨ electrical engineer ✨, working and interested in power systems,
   `https://scientiairanica.sharif.edu/article_23125.html` </br>
  • The Role of Data Mining in the Agriculture Industry and Medicinal Plants --> Published </br>
   `https://civilica.com/doc/1668241`
+😎 More to know about my papers:
+  `https://scholar.google.com/citations?user=hmL1CUcAAAAJ&hl=en`
 
 ☺️ **TEST SCORES** </br>
  • GRE ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉 </br>
