@@ -25,9 +25,9 @@ Passionate ✨ Electrical Engineer ✨, working and interested in power systems,
  • Wearing Face Mask Detection Using Deep Learning Through COVID-19 Pandemic --> Published </br>
   `https://scientiairanica.sharif.edu/article_23125.html` </br>
  • The Role of Data Mining in the Agriculture Industry and Medicinal Plants --> Published </br>
-  `https://civilica.com/doc/1668241`
-😎 More to know about my papers:
-  `https://scholar.google.com/citations?user=hmL1CUcAAAAJ&hl=en`
+  `https://civilica.com/doc/1668241` </br>
+😎 More to know about my papers: </br>
+  `https://scholar.google.com/citations?user=hmL1CUcAAAAJ&hl=en` </br>
 
 ☺️ **TEST SCORES** </br>
  • GRE ➡️ Verbal: 157, Quantitative: 163, Analytical Writing: 3.5 🎉 </br>
